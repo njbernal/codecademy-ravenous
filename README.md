@@ -1,4 +1,4 @@
-# Ravenouce
+# Ravenous
 
 ## React app based on Codecademy's final project
 
